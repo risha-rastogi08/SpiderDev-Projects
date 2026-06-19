@@ -1,7 +1,6 @@
-## SpiderDev Assignments
-# WEEK-1
+# SpiderDev Cohort
 
-## Assignments
+## Week-1 Assignments
 - Assignment 1 — Meme Page
 - Assignment 2 — Fake Zomato Page
 - Assignment 3 — Shaadi.com Form
@@ -9,7 +8,6 @@
 
 ## Tech Used
 - HTML5
-- CSS3
 
 ## Author
 Risha
