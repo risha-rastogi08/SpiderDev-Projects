@@ -1,4 +1,4 @@
-# SpiderDev Cohort
+# SpiderDev
 
 ## Week-1 Assignments
 - Assignment 1 — Meme Page
